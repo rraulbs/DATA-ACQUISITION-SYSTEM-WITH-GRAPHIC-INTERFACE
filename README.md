@@ -15,6 +15,7 @@ You will need:
 
   1)Install the last version of Processing in Processing.org, in this example, the version 3.3.6 are been used.
   Download here: https://processing.org/
+  
   2)One arduino: Recommended "Arduino UNO R3", "Arduino Mega" can present some bugs.
 
 Step 1:
