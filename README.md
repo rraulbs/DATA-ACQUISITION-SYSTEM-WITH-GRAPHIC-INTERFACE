@@ -25,7 +25,7 @@ and load the code graphArduino
 
 ![code_arduino](https://user-images.githubusercontent.com/16651018/33284009-b9bf8320-d394-11e7-9bd4-1b1a0e95041f.png)
 
-Step 2: Open Processing and load the code
+Step 2: Open Processing and load the code graphProcessing
 
 ![code_processing](https://user-images.githubusercontent.com/16651018/33284026-c4e089e8-d394-11e7-876a-911dc0e2b11c.png)
 
