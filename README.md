@@ -20,6 +20,7 @@ You will need:
 
 Step 1: Connect a potentiometer or other analog sensor to analog input 0, 
 ![arduino_potenciometro](https://user-images.githubusercontent.com/16651018/33283351-a63ab0ba-d392-11e7-9d41-7b77811867b6.png)
+
 and load the code graphArduino
 
 
