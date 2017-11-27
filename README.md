@@ -22,6 +22,7 @@ Step 1: Connect a potentiometer or other analog sensor to analog input 0,
 ![arduino_potenciometro](https://user-images.githubusercontent.com/16651018/33283944-91fb31ae-d394-11e7-8236-9dd282aa5b69.png)
 
 and load the code graphArduino
+
 ![code_arduino](https://user-images.githubusercontent.com/16651018/33284009-b9bf8320-d394-11e7-9bd4-1b1a0e95041f.png)
 
 Step 2: Open Processing and load the code
