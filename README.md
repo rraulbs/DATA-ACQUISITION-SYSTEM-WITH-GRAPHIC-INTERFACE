@@ -9,7 +9,7 @@ Sample:
 "Graph_Arduino - Visualization" Sample:
 ![sample](https://user-images.githubusercontent.com/16651018/33281634-0b7d54e2-d38d-11e7-8fc9-eedce835cd63.png)
 
-Example:
+Example: This example shows how to gerate logs wih the datas, just by varying the resistance of a potentiometer. You can visualize the graph in real time. For more informations look at the manual.
 
 You will need:
 
