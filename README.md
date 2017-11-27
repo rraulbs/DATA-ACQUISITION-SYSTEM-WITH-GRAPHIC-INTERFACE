@@ -16,7 +16,7 @@ You will need:
   1)Install the last version of Processing in Processing.org, in this example, the version 3.3.6 are been used.
   Download here: https://processing.org/
   
-  2)One arduino: Recommended "Arduino UNO R3", "Arduino Mega" can present some bugs.
+  2)An arduino: Recommended "Arduino UNO R3", "Arduino Mega" can present some bugs.
 
 Step 1: Connect a potentiometer or other analog sensor to analog input 0, 
 ![arduino_potenciometro](https://user-images.githubusercontent.com/16651018/33283351-a63ab0ba-d392-11e7-9d41-7b77811867b6.png)
